@@ -1,0 +1,30 @@
+{
+	"korpus" :[
+		"front_Lack_13",
+		"front_Folie_2", "front_Folie_3",
+		"front_Holz_9", "front_Lack_26",
+		"front_Lack_27", "front_Lack_28",
+		"front_Lack_29", "front_Holz_8",
+		"front_Holz_3", "front_Lack_30",
+		"front_Lack_31", "front_Lack_32",
+		"front_Lack_33", "front_Lack_34",
+		"front_Lack_35", "front_Lack_36"
+	],
+	"sockel" :[
+		"front_Lack_13",
+		"front_Folie_2", "front_Folie_3",
+		"front_Holz_9", "front_Lack_26",
+		"front_Lack_27", "front_Lack_28",
+		"front_Lack_29", "front_Holz_8",
+		"front_Holz_3", "front_Lack_30",
+		"front_Lack_31", "front_Lack_32",
+		"front_Lack_33", "front_Lack_34",
+		"front_Lack_35", "front_Lack_36"
+	],
+	"platte" :[
+		"platte_col1", "platte_col6",
+		"platte_col8", "platte_col12",
+		"platte_col13", "platte_col14",
+		"platte_col15"
+	]
+}

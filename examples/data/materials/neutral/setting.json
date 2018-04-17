@@ -1,0 +1,14 @@
+{
+	"settings":{
+		"wall"		:"wall_8",
+		"bottom"	:"bottom_6",
+		"door"		:"door_col1",
+		"window"	:"window_col1",
+		"front"		:"front_Lack_13",
+		"korpus"	:"front_Lack_13",
+		"sockel"	:"front_Lack_13",
+		"platte"	:"platte_col8",
+		"handle" 	:"griff_01"
+	},
+	"selectable":["wall", "bottom", "door", "window", "front", "korpus", "sockel", "platte"]
+}

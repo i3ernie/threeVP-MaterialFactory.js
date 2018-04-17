@@ -1,0 +1,177 @@
+{
+  "griff_167": {
+    "userData": {
+      "title": "{$metallgriffEdelstahl}",
+      "EDIGraphID": "167",
+      "preview": "textures_prev/griffe/G-0142CZ.jpg",
+      "model": "G-0142CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_183": {
+    "userData": {
+      "title": "{$metallgriffEdelstahl}",
+      "EDIGraphID": "183",
+      "preview": "textures_prev/griffe/GSOMG202.jpg",
+      "model": "GSOMG202"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_000": {
+    "userData": {
+      "title": "{$stangenGriffEdelstahl}",
+      "EDIGraphID": "000",
+      "preview": "textures_prev/griffe/GSOMG202.jpg",
+      "model": "stange"
+    }
+  },
+
+
+  "griff_185": {
+    "userData": {
+      "title": "{$metallgriffEdelstahl}",
+      "EDIGraphID": "185",
+      "preview": "textures_prev/griffe/GSOMG202.jpg",
+      "model": "GSOMG202"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_197": {
+    "userData": {
+      "title": "{$Metall_Porzellangriff}",
+      "EDIGraphID": "197",
+      "preview": "textures_prev/griffe/G-0081CZ.jpg",
+      "model": "G-0081CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_198": {
+    "userData": {
+      "title": "{$Metall_Porzellangriff}",
+      "EDIGraphID": "198",
+      "preview": "textures_prev/griffe/G-0081CZ.jpg",
+      "model": "G-0081CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_201": {
+    "userData": {
+      "title": "{$Metall_Kunststoffgriff_brueniert}",
+      "EDIGraphID": "201",
+      "preview": "textures_prev/griffe/G-0143CZ.jpg",
+      "model": "G-0143CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_43": {
+    "userData": {
+      "title": "{$metallgriffEdelstahl}",
+      "EDIGraphID": "043",
+      "preview": "textures_prev/griffe/G-0275TZ.jpg",
+      "model": "G-0275TZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_56": {
+    "userData": {
+      "title": "{$Metallgriff_Used_look}",
+      "EDIGraphID": "056",
+      "preview": "textures_prev/griffe/G-0047CZ.jpg",
+      "model": "G-0047CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_87": {
+    "userData": {
+      "title": "{$Metallgriff_Alufarbig_Chrome}",
+      "EDIGraphID": "087",
+      "preview": "textures_prev/griffe/GBOMG205.jpg",
+      "model": "GBOMG205"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_98": {
+    "userData": {
+      "title": "{$Metallgriff_Nickel_matt}",
+      "EDIGraphID": "098",
+      "preview": "textures_prev/griffe/G-0105TZ.jpg",
+      "model": "G-0105TZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_214": {
+    "userData": {
+      "title": "{$Metallgriff_Chrome_Glanz}",
+      "EDIGraphID": "214",
+      "preview": "textures_prev/griffe/G-0072CZ.jpg",
+      "model": "G-0072CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_218": {
+    "userData": {
+      "title": "{$Metallgriff_Edalstahl_Chrome_Glanz_farbig}",
+      "EDIGraphID": "218",
+      "preview": "textures_prev/griffe/G-0116CZ.jpg",
+      "model": "G-0116CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_264": {
+    "userData": {
+      "title": "{$metallgriffEdelstahl}",
+      "EDIGraphID": "264",
+      "preview": "textures_prev/griffe/G-0064CZ.jpg",
+      "model": "G-0064CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_677": {
+    "userData": {
+      "title": "{$metallknopfEdalstahl}",
+      "EDIGraphID": "677",
+      "preview": "textures_prev/griffe/G-0133CZ.jpg",
+      "model": "G-0133CZ"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  },
+  "griff_678": {
+    "userData": {
+      "title": "{$metallknopfEdalstahl}",
+      "EDIGraphID": "687",
+      "preview": "textures_prev/griffe/GKOMK101.jpg",
+      "model": "GKOMK101"
+    },
+    "map": {
+      "image": "default/med60d00.jpg"
+    }
+  }
+}

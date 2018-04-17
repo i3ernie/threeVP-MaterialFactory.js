@@ -1,0 +1,7 @@
+{
+	"wall" :["wall_7", "wall_8", "wall_9", "wall_10", "wall_6",  "wall_2"],
+	"bottom" :["bottom_26", "bottom_6", "bottom_27", "bottom_17", "bottom_5"],
+	"window" :["window_col4", "window_col1", "window_col2", "window_col3"],
+    "door" :["door_col4",  "door_col1","door_col2", "door_col3"]
+
+}

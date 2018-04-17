@@ -1,0 +1,45 @@
+{
+    "metal": {
+        "metal": true
+    },
+    "grid": {
+        "blendMode": "multiply",
+        "blendTexture": "grid.png"
+    },
+    "glossy_high": {
+        "envMap": "cubecam",
+        "combine": "THREE.MixOperation",
+        "reflectivity": 0.4,
+        "shininess": 60
+    },
+    "glossy_medium": {
+        "envMap": "cubecam",
+        "combine": "THREE.MixOperation",
+        "reflectivity": 0.3,
+        "shininess": 60
+    },
+    "glossy_low": {
+        "envMap": "cubecam",
+        "combine": "THREE.MixOperation",
+        "reflectivity": 0.23,
+        "shininess": 30
+    },
+
+    "matt": {
+        "shininess": 0
+    },
+
+    "brass": {
+        "colorDiffuse": "rgb(161,144,100)",
+        "colorSpecular": "rgb(200,160,120)",
+        "shininess": "60"
+    },
+    "edges": {
+        "mapDiffuse": "edges.png"
+    },
+    "grid": {
+        "mapDiffuse": "UV_Grid_Sm.jpg"
+    }
+}
+
+

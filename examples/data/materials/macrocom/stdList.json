@@ -1,0 +1,6 @@
+{
+    "ArrowColor": {
+        "map": {"image":"default/col_254-makassar.jpg"},
+        "emissive": "0xffffff"
+    }
+}

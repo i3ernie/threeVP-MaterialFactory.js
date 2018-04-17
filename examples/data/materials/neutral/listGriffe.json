@@ -1,0 +1,136 @@
+ {
+		"griff_167"	:{
+			"title" 		: "{$metallgriffEdelstahl}",
+			"label" 		: "Metallgriff Edelstahlfarbig",
+			"EDIGraphID" 	: "167",
+			"preview" 		: "textures_prev/griffe/G-0142CZ.jpg",
+			"mapDiffuse" 	: "default/med60d00.jpg",
+			"model" 		:"G-0142CZ"
+		},
+		"griff_183"	:{
+			"title"			: "{$metallgriffEdelstahl}",
+			"label"			: "Metallgriff Edelstahlfarbig",
+			"EDIGraphID" 	: "183",
+			"preview" 		: "textures_prev/griffe/GSOMG202.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"GSOMG202"
+		},
+		 "griff_000"	:{
+			 "title"		: "{$stangenGriffEdelstahl}",
+			 "label"		: "Stangengriff Edelstahl",
+			 "EDIGraphID" 	: "000",
+			 "preview" 		: "textures_prev/griffe/GSOMG202.jpg",
+			 "model" 		:"stange"
+		 },
+	 	"griff_none"	:{
+			 "title"		: "{$stangenGriffEdelstahl}",
+			 "label"		: "Stangengriff Edelstahl",
+			 "EDIGraphID" 	: "000",
+			 "preview" 		: "textures_prev/griffe/GSOMG202.jpg",
+			 "model" 		:"none"
+	 	},
+		"griff_185"	:{
+			"title"			: "{$metallgriffEdelstahl}",
+			"label"			: "Metallgriff Edelstahlfarbig",
+			"EDIGraphID" 	: "185",
+			"preview" 		: "textures_prev/griffe/GSOMG202.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		: "GSOMG202"
+		},
+		"griff_197"	:{
+			"title"			: "{$Metall_Porzellangriff}",
+			"label"			: "Metall-/Porzellangriff",
+			"EDIGraphID" 	: "197",
+			"preview" 		: "textures_prev/griffe/G-0081CZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+		  	"model" 		:"G-0081CZ"
+		},
+		"griff_198"	:{
+			"title"			: "{$Metall_Porzellangriff}",
+			"label"			: "Metall-/Porzellangriff",
+			"EDIGraphID" 	: "198",
+			"preview" 		: "textures_prev/griffe/G-0081CZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0081CZ"
+		},
+		"griff_201"	:{
+			"title"			: "{$Metall_Kunststoffgriff_brueniert}",
+			"label"			: "Metall-/Kunststoffgriff brüniert",
+			"EDIGraphID" 	: "201",
+			"preview" 		: "textures_prev/griffe/G-0143CZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0143CZ"
+		},
+		"griff_43"	:{
+			"title"			: "{$metallgriffEdelstahl}",
+			"label"			: "Metallgriff Edelstahlfarbig",
+			"EDIGraphID" 	: "043",
+			"preview" 		: "textures_prev/griffe/G-0275TZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0275TZ"
+		},
+		"griff_56"	:{
+			"title"			: "{$Metallgriff_Used_look}",
+			"label"			: "Metallgriff Used look",
+			"EDIGraphID" 	: "056",
+			"preview" 		: "textures_prev/griffe/G-0047CZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0047CZ"
+		},
+		"griff_87"	:{
+			"title"			: "{$Metallgriff_Alufarbig_Chrome}",
+			"label"			: "Metallgriff Alufarbig/Chrome",
+			"EDIGraphID" 	: "087",
+			"preview" 		: "textures_prev/griffe/GBOMG205.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"GBOMG205"
+		},
+		"griff_98"	:{
+			"title"			: "{$Metallgriff_Nickel_matt}",
+			"label"			: "Metallgriff Nickel matt",
+			"EDIGraphID" 	: "098",
+			"preview" 		: "textures_prev/griffe/G-0105TZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0105TZ"
+		},
+		"griff_214"	:{
+			"title"			: "{$Metallgriff_Chrome_Glanz}",
+			"label"			: "Metallgriff Chrome Glanz",
+			"EDIGraphID" 	: "214",
+			"preview" 		: "textures_prev/griffe/G-0072CZ.jpg",
+			"mapDiffuse"	: "default/med60d00.jpg",
+			"model" 		:"G-0072CZ"
+		},
+		"griff_218"	:{
+			"title"			: "{$Metallgriff_Edalstahl_Chrome_Glanz_farbig}",
+			"label"			: "Metallgriff Edalstahl-/Chrome Glanz farbig",
+			"EDIGraphID" 	: "218",
+			"preview" 		: "textures_prev/griffe/G-0116CZ.jpg",
+			"mapDiffuse" 	: "default/med60d00.jpg",
+			"model" 		:"G-0116CZ"
+		},
+		"griff_264"	:{
+			"title" 		:"{$metallgriffEdelstahl}",
+			"label" 		:"Metallgriff Edalstahlfarbig",
+			"EDIGraphID" 	:"264",
+			"preview" 		:"textures_prev/griffe/G-0064CZ.jpg",
+			"mapDiffuse"	:"default/med60d00.jpg",
+			"model" 		:"G-0064CZ"
+		},
+		"griff_677"	:{
+			"title" 		:"{$metallknopfEdalstahl}",
+			"label" 		:"Metallknopf Edalstahlfarbig",
+			"EDIGraphID" 	:"677",
+			"preview" 		:"textures_prev/griffe/G-0133CZ.jpg",
+			"mapDiffuse" 	:"default/med60d00.jpg",
+			"model" 		:"G-0133CZ"
+		},
+		"griff_678"	:{
+			"title" 		:"{$metallknopfEdalstahl}",
+			"label" 		:"Metallknopf Edalstahlfarbig",
+			"EDIGraphID" 	:"687",
+			"preview" 		:"textures_prev/griffe/GKOMK101.jpg",
+			"mapDiffuse" 	:"default/med60d00.jpg",
+			"model" 		:"GKOMK101"
+		}
+}

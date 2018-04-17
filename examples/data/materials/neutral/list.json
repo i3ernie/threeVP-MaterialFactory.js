@@ -1,0 +1,1129 @@
+{
+	"front_Folie_1":
+	{
+		"title"			:"{$Ultraweiß}",
+		"label"			:"Folie_1",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/UWE00A00.jpg",
+		"mapDiffuse"	:"neutral/UWE00A00.jpg"
+	},
+	"front_Folie_2":
+	{
+		"title" 		: "{$weiss}",
+		"label" 		: "Folie_2",
+		"EDIGraphID"	: "F02",
+		"preview" 		: "textures_prev/neutral/0502Y50R.jpg",
+		"mapDiffuse" 	: "neutral/0502Y50R.jpg"
+	},
+	"front_Folie_3":
+	{
+		"title" 		: "{$col_240-magnolie}",
+		"label" 		: "Folie_3",
+		"EDIGraphID"	: "F02",
+		"preview" 		: "textures_prev/neutral/S0907Y30.jpg",
+		"mapDiffuse" 	: "neutral/S0907Y30.jpg"
+	},
+	"front_Folie_4":
+	{
+		"title" 		: "{$Kaschmir}",
+		"label" 		: "Folie_4",
+		"EDIGraphID"	: "F02",
+		"preview" 		: "textures_prev/neutral/1505Y50R.jpg",
+		"mapDiffuse" 	: "neutral/1505Y50R.jpg"
+	},
+	"front_Folie_5":
+	{
+		"title" 		: "{$Beigegrau}",
+		"label" 		: "Folie_5",
+		"EDIGraphID"	: "F02",
+		"preview" 		: "textures_prev/neutral/ABG39M00.jpg",
+		"mapDiffuse" 	: "neutral/ABG39M00.jpg"
+	},
+
+
+	"front_Folie_11":
+	{
+		"title"        : "{$Rubinrot}",
+		"label"        : "Folie_11",
+		"EDIGraphID"   : "F02",
+		"preview"      : "textures_prev/neutral/ART90H00b.jpg",
+		"mapDiffuse"   : "neutral/ART90H00b.jpg",
+		"mapBump"	   : "neutral/HEI03K00.jpg",
+		"mapBumpScale" : 1.75
+	},
+
+	"front_Folie_12":
+	{
+		"title"          : "{$eiche}",
+		"label"          : "Folie_12",
+		"preview"        : "textures_prev/withbump/Holz1_diffuse.jpg",
+		"mapDiffuse"     : "withbump/Holz1_diffuse.jpg",
+		"mapBump"        : "withbump/Holz1_bump.jpg",
+		"mapBumpScale"   : 0.25,
+		"EDIGraphID" 	   : "Holz000",
+		"size"	       : {"u":100, "v":100},
+		"rotation"	   : 0.0
+	},
+
+
+	"front_Schicht_1":
+	{
+		"title"		   :"{$Eiche-weiß}",
+		"label"		   :"Schicht_1",
+		"EDIGraphID"   :"F07",
+		"preview"      :"textures_prev/neutral/HEI03K00.jpg",
+		"mapDiffuse"   :"neutral/HEI03K00.jpg",
+		"mapBump"	   :"neutral/HEI03K00.jpg",
+		"mapBumpScale" : 0.25
+	},
+	"front_Schicht_2":
+	{
+		"title"			:"{$Eiche-natur}",
+		"label"			:"Schicht_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HAP27L00.jpg",
+		"mapDiffuse"	:"neutral/HAP27L00.jpg"
+	},
+	"front_Schicht_3":
+	{
+		"title"			:"{$Eiche-schwarz-braun}",
+		"label"			:"Schicht_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HEI88K00.jpg",
+		"mapDiffuse"	:"neutral/HEI88K00.jpg"
+	},
+	"front_Schicht_4":
+	{
+		"title"			:"{$Thermobuche}",
+		"label"			:"Schicht_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HBU85P00.jpg",
+		"mapDiffuse"	:"neutral/HBU85P00.jpg"
+	},
+	"front_Schicht_5":
+	{
+		"title"			:"{$Raucheiche}",
+		"label"			:"Schicht_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HEI90H00.jpg",
+		"mapDiffuse"	:"neutral/HEI90H00.jpg"
+	},
+	"front_Schicht_6":
+	{
+		"title"			:"{$Achatblau}",
+		"label"			:"Schicht_6",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABL15I00.jpg",
+		"mapDiffuse"	:"neutral/ABL15I00.jpg"
+	},
+	"front_Schicht_7":
+	{
+		"title"			:"{$Weinrot}",
+		"label"			:"Schicht_7",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ART90H00b.jpg",
+		"mapDiffuse"	:"neutral/ART90H00b.jpg"
+	},
+	"front_Schicht_8":
+	{
+		"title"			:"{$Nachtblau}",
+		"label"			:"Schicht_8",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/UBL85D00.jpg",
+		"mapDiffuse"	:"neutral/UBL85D00.jpg"
+	},
+
+
+	"front_Lack_1":
+	{
+		"title"			:"{$Ultraweiß}",
+		"label"			:"Lack_1",
+		"EDIGraphID"	:"F07",
+		"colorEmissive" : [ 0.22, 0.22, 0.2 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"	: "rgb(255, 255, 250)",
+		"preset"		: "glossy_high"
+	},
+	"front_Lack_2":
+	{
+		"title"			:"{$weiss}",
+		"label"			:"Lack_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/0502Y50R.jpg",
+		"mapDiffuse"	:"neutral/0502Y50R.jpg"
+	},
+	"front_Lack_3":
+	{
+		"title"			:"{$col_240-magnolie}",
+		"label"			:"Lack_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/S0907Y30.jpg",
+		"mapDiffuse"	:"neutral/S0907Y30.jpg"
+	},
+	"front_Lack_4":
+	{
+		"title"			:"{$Kaschmir}",
+		"label"			:"Lack_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/1505Y50R.jpg",
+		"mapDiffuse"	:"neutral/1505Y50R.jpg"
+	},
+	"front_Lack_5":
+	{
+		"title"			:"{$Beigegrau}",
+		"label"			:"Lack_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABG39M00.jpg",
+		"mapDiffuse"	:"neutral/ABG39M00.jpg"
+	},
+	"front_Lack_6":
+	{
+		"title"		 :"{$Silbergrau}",
+		"label"		 :"Lack_6",
+		"EDIGraphID" :"F07",
+		"preview"	 :"neutral/N2002Y00.jpg",
+		"mapDiffuse" :"neutral/N2002Y00.jpg"
+	},
+	"front_Lack_7":
+	{
+		"title"		 	: "{$Anthrazit}",
+		"label"		 	: "Lack_7",
+		"EDIGraphID"	: "F07",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"preview"	 	: "neutral/front_AGU73W00.jpg",
+		"mapDiffuse" 	: "neutral/front_AGU73W00.jpg",
+		"preset"		: "matt"
+	},
+	"front_Lack_8":
+	{
+		"title"		 : "{$col_schwarz}",
+		"label"		 : "Lack_8",
+		"EDIGraphID" : "F07",
+		"preview"	 : "neutral/GKL99DSW.jpg",
+		"mapDiffuse" : "neutral/GKL99DSW.jpg"
+	},
+	"front_Lack_9":
+	{
+		"title"			:"{$Blaugrau}",
+		"label"			:"Lack_9",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL55GGU.jpg",
+		"mapDiffuse"	:"neutral/GKL55GGU.jpg"
+	},
+	"front_Lack_10":
+	{
+		"title"			:"{$wall_rot}",
+		"label"			:"Lack_10",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/URT45T00.jpg",
+		"mapDiffuse"	:"neutral/URT45T00.jpg"
+	},
+	"front_Lack_11":
+	{
+		"title"		 	: "{$Rubinrot}",
+		"label"		 	: "Lack_11",
+		"EDIGraphID" 	: "F07",
+		"preview"	 	: "neutral/ART90H00b.jpg",
+		"mapDiffuse" 	: "neutral/ART90H00b.jpg"
+	},
+	"front_Lack_12":
+	{
+		"title"		    : "{$Tiefblau}",
+		"label"		    : "Lack_12",
+		"EDIGraphID"	: "F012",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"preview"	    : "neutral/front_ABL65H00.jpg",
+		"mapDiffuse"	: "neutral/front_ABL65H00.jpg"
+	},
+	"front_Lack_13":
+	{
+		"title"			:"{$Uni_Dekor_Weiss}",
+		"label"			:"Lack_13",
+		"EDIGraphID"	:"F13",
+		"color"         : "rgb(255, 255, 255)",
+		"colorEmissive" : [ 0.25, 0.25, 0.25 ],
+		"colorSpecular" : [ 0.15, 0.15, 0.15 ],
+		"preset"		: "glossy_medium"
+	},
+	"front_Lack_14":
+	{
+		"title"			:"{$Uni_Dekor_Vanille}",
+		"label"			:"Lack_14",
+		"EDIGraphID"	:"F14",
+		"colorDiffuse"  : "rgb(252, 235, 204)",
+		"preset"		: "matt"
+	},
+	"front_Lack_15":
+	{
+		"title"			:"{$Uni_Dekor_Anthrazit}",
+		"label"			:"Lack_15",
+		"EDIGraphID"	:"F15",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.1, 0.1, 0.1 ],
+		"colorDiffuse"  : "rgb(66, 73, 91)",
+		"preset":		"matt"
+	},
+	"front_Lack_16":
+	{
+		"title"			:"{$Uni_Dekor_Dunkelrot}",
+		"label"			:"Lack_16",
+		"EDIGraphID"	:"F16",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.1, 0.1, 0.1 ],
+		"colorDiffuse"  : "rgb(116, 30, 36)",
+		"preset"		: "glossy_medium"
+	},
+	"front_Lack_17":
+	{
+		"title"			:"{$Goldbuche}",
+		"label"			:"Lack_17",
+		"EDIGraphID"	:"F17",
+		"preview"		:"textures_prev/neutral/HBU14B00_COLOR.jpg",
+		"mapDiffuse"	:"neutral/HBU14B00_COLOR.jpg"
+	},
+	"front_Lack_18":
+	{
+		"title"			:"{$Ahorn_hell}",
+		"label"			:"Lack_18",
+		"EDIGraphID"	:"F18",
+		"preview"		:"textures_prev/neutral/HAH20R00_COLOR.jpg",
+		"mapDiffuse"	:"neutral/HAH20R00_COLOR.jpg"
+	},
+	"front_Lack_19":
+	{
+		"title"			:"{$Buche_Wachseffektlack}",
+		"label"			:"Lack_19",
+		"EDIGraphID"	:"F19",
+		"preview"		:"textures_prev/neutral/HBU17600_COLOR.jpg",
+		"mapDiffuse"	:"neutral/HBU17600_COLOR.jpg"
+	},
+	"front_Lack_20":
+	{
+		"title"			:"{$Nebraska_Oak}",
+		"label"			:"Lack_20",
+		"EDIGraphID"	:"F20",
+		"preview"		:"textures_prev/neutral/HEI11EBG_COLOR.jpg",
+		"mapDiffuse"	:"neutral/HEI11EBG_COLOR.jpg"
+	},
+	"front_Lack_21":
+	{
+		"title"			:"{$Arctic_Oak_Alpineiche}",
+		"label"			:"Lack_21",
+		"EDIGraphID"	:"F21",
+		"preview"		:"textures_prev/neutral/XGU20400_COLOR.jpg",
+		"mapDiffuse"	:"neutral/XGU20400_COLOR.jpg"
+	},
+	"front_Lack_22":
+	{
+		"title"			:"{$Limes_Eiche}",
+		"label"			:"Lack_22",
+		"EDIGraphID"	:"F22",
+		"preview"		:"textures_prev/neutral/HEI09600_COLOR.jpg",
+		"mapDiffuse"	:"neutral/HEI09600_COLOR.jpg"
+	},
+	"front_Lack_23":
+	{
+		"title"		    :"{$Kernbuche}",
+		"label"		    :"Lack_23",
+		"EDIGraphID"	:"HBU32K00",
+		"preview"	    :"carat/dekore/HBU32K00_COLOR.jpg",
+		"mapDiffuse"	:"carat/dekore/HBU32K00_COLOR.jpg"
+	},
+	"front_Lack_24":
+	{
+		"title"			:"{$Uni_Dekor_Lindgruen}",
+		"label"			:"Lack_24",
+		"EDIGraphID"	:"F24",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(20, 221, 0)",
+		"preset"		: "matt"
+	},
+	"front_Lack_25":
+	{
+		"title"			:"{$Uni_Dekor_Hellblau}",
+		"label"			:"Lack_25",
+		"EDIGraphID"	:"F25",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(79,148,169)",
+		"preset"		: "matt"
+	},
+	"front_Lack_26":
+	{
+		"title"			:"{$grafit}",
+		"label"			:"Lack_26",
+		"EDIGraphID"	:"UGU90K00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(88,89,90)",
+		"preset"		: "matt"
+	},
+	"front_Lack_27":
+	{
+		"title"			:"{$fango}",
+		"label"			:"Lack_27",
+		"EDIGraphID"	:"AGU61S00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(137,132,121)",
+		"preset"		: "matt"
+	},
+	"front_Lack_28":
+	{
+		"title"			:"{$bordeauxrot}",
+		"label"			:"Lack_28",
+		"EDIGraphID"	:"URT60P00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(116,30,36)",
+		"preset"		: "matt"
+	},
+	"front_Lack_29":
+	{
+		"title"			:"{$kaschmir_new}",
+		"label"			:"Lack_29",
+		"EDIGraphID"	:"UBG04H00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(222,214,193)",
+		"preset"		: "matt"
+	},
+	"front_Lack_30":
+	{
+		"title"			:"{$oxidbeton}",
+		"label"			:"Lack_30",
+		"EDIGraphID"	:"XGU12901",
+		"preview"		:"textures_prev/neutral/XGU12901.jpg",
+		"mapDiffuse"	:"neutral/XGU12901.jpg"
+	},
+	"front_Lack_31":
+	{
+		"title"			:"{$walnuss}",
+		"label"			:"Lack_31",
+		"EDIGraphID"	:"HNU10900",
+		"preview"		:"textures_prev/neutral/HNU10900.jpg",
+		"mapDiffuse"	:"neutral/HNU10900.jpg"
+	},
+	"front_Lack_32":
+	{
+		"title"			:"{$schwarzHochglanz}",
+		"label"			:"Lack_32",
+		"EDIGraphID"	:"USW98E00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(27,31,40)",
+		"preset"		: "glossy_medium"
+	},
+	"front_Lack_33":
+	{
+		"title"			:"{$blaubeereMatt}",
+		"label"			:"Lack_33",
+		"EDIGraphID"	:"UBL36A00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(65,82,122)",
+		"preset"		: "matt"
+	},
+	"front_Lack_34":
+	{
+		"title"			:"{$magma}",
+		"label"			:"Lack_34",
+		"EDIGraphID"	:"UBR46K00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(150,136,127)",
+		"preset"		: "matt"
+	},
+	"front_Lack_35":
+	{
+		"title"			:"{$lagune}",
+		"label"			:"Lack_35",
+		"EDIGraphID"	:"UBL35U00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(96,113,131)",
+		"preset"		: "matt"
+	},
+	"front_Lack_36":
+	{
+		"title"			:"{$papyrusgrau}",
+		"label"			:"Lack_36",
+		"EDIGraphID"	:"UGU13F00",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"  : "rgb(180,186,196)",
+		"preset"		: "matt"
+	},
+
+
+
+	"front_Holz_1":
+	{
+		"title"			:"{$Buche}",
+		"label"			:"Holz_1",
+		"EDIGraphID"	:"F17",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.0, 0.0, 0.0 ],
+		"preview"		:"textures_prev/neutral/HAP27L00.jpg",
+		"mapDiffuse"	:"neutral/HAP27L00.jpg",
+		"mapBump"   	: "withbump/Holz1_bump.jpg",
+		"mapBumpScale"	: 0.25
+	},
+	"front_Holz_2":
+	{
+		"title"			:"{$col_ahorn}",
+		"label"			:"Holz_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HAH20K00.jpg",
+		"mapDiffuse"	:"neutral/HAH20K00.jpg"
+	},
+	"front_Holz_3":
+	{
+		"title"			:"{$Akazie}",
+		"label"			:"Holz_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HBN15K00.jpg",
+		"mapDiffuse"	:"neutral/HBN15K00.jpg"
+	},
+	"front_Holz_4":
+	{
+		"title"			:"{$Eiche-natur}",
+		"label"			:"Holz_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HAP27L00.jpg",
+		"mapDiffuse"	:"neutral/HAP27L00.jpg"
+	},
+	"front_Holz_5":
+	{
+		"title"			:"{$Eiche-schwarz-braun}",
+		"label"			:"Holz_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HEI88K00.jpg",
+		"mapDiffuse"	:"neutral/HEI88K00.jpg"
+	},
+	"front_Holz_6":
+	{
+		"title"			:"{$Thermobuche}",
+		"label"			:"Holz_6",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HBU85P00.jpg",
+		"mapDiffuse"	:"neutral/HBU85P00.jpg"
+	},
+	"front_Holz_7":
+	{
+		"title"			:"{$Raucheiche}",
+		"label"			:"Holz_7",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HEI90H00.jpg",
+		"mapDiffuse"	:"neutral/HEI90H00.jpg",
+		"mapBump"		:"neutral/HEI90H00.jpg",
+		"bumpSize"		:0.5,
+		"size"			:{"u":50, "v":200}
+
+	},
+	"front_Holz_8":
+	{
+		"title"			:"{$vintageEiche}",
+		"label"			:"Holz_8",
+		"EDIGraphID"	:"HEI17N00",
+		"preview"	    :"textures_prev/neutral/HEI17N00.jpg",
+		"mapDiffuse"	:"neutral/HEI17N00.jpg"
+	},
+	"front_Holz_9":
+	{
+		"title"		    :"{$sonomaEiche}",
+		"label"		    :"Holz_9",
+		"EDIGraphID"	:"HEI16K00",
+		"preview"	    :"textures_prev/neutral/HEI16K00.jpg",
+		"mapDiffuse"	:"neutral/HEI16K00.jpg"
+	},
+
+
+
+	"front_Glas_1":
+	{
+		"title"			:"{$col_weiss}",
+		"label"			:"Glas_1",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/UWE00A00.jpg",
+		"mapDiffuse"	:"neutral/UWE00A00.jpg"
+	},
+	"front_Glas_2":
+	{
+		"title"			:"{$col_240-magnolie}",
+		"label"			:"Glas_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABG06H00.jpg",
+		"mapDiffuse"	:"neutral/ABG06H00.jpg"
+	},
+	"front_Glas_3":
+	{
+		"title"			:"{$Kaschmir}",
+		"label"			:"Glas_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABG39M00.jpg",
+		"mapDiffuse"	:"neutral/ABG39M00.jpg",
+		"Material"		:{ "shininess":"1"}
+	},
+	"front_Glas_4":
+	{
+		"title"			:"{$Lichtgrau}",
+		"label"			:"Glas_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL00O01.jpg",
+		"mapDiffuse"	:"neutral/GKL00O01.jpg"
+	},
+	"front_Glas_5":
+	{
+		"title"			:"{$col_246-anthrazit}",
+		"label"			:"Glas_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL55GGU.jpg",
+		"mapDiffuse"	:"neutral/GKL55GGU.jpg",
+		"preset"		:"glossy_medium"
+	},
+	"front_Glas_6":
+	{
+		"title"			:"{$col_schwarz}",
+		"label"			:"Glas_6",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL99DSW.jpg",
+		"mapDiffuse"	:"neutral/GKL99DSW.jpg"
+	},
+	"front_Glas_7":
+	{
+		"title"			:"{$Achatblau}",
+		"label"			:"Glas_7",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABL15I00.jpg",
+		"mapDiffuse"	:"neutral/ABL15I00.jpg"
+	},
+	"front_Glas_8":
+	{
+		"title"			:"{$Weinrot}",
+		"label"			:"Glas_8",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ART90H00b.jpg",
+		"mapDiffuse"	:"neutral/ART90H00b.jpg"
+	},
+	"front_Glas_9":
+	{
+		"title"			:"{$Nachtblau}",
+		"label"			:"Glas_9",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/UBL85D00.jpg",
+		"mapDiffuse"	:"neutral/UBL85D00.jpg"
+	},
+
+
+	"korpus_Lack_12":
+	{
+		"title"		    : "{$Tiefblau}",
+		"label"		    : "korpus_Lack_12",
+		"EDIGraphID"		: "F012",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.3, 0.3, 0.3 ],
+		"preview"	    	: "neutral/front_ABL65H00.jpg",
+		"mapDiffuse"		: "neutral/front_ABL65H00.jpg"
+	},
+
+	"korpus_Holz_1":
+	{
+		"title"			:"{$Buche}",
+		"label"			:"korpus_Holz_1",
+		"EDIGraphID"		:"F17",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.0, 0.0, 0.0 ],
+		"preview"			:"neutral/HAP27L00.jpg",
+		"mapDiffuse"		:"neutral/HAP27L00.jpg",
+		"mapBump"   		: "withbump/Holz1_bump.jpg",
+		"mapBumpScale" 	: 0.25
+	},
+	"korpus_col1":
+	{
+		"title"			:"{$Ultraweiß}",
+		"label"			:"korpus_1",
+		"EDIGraphID"	:"F07",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.1, 0.1, 0.1 ],
+		"preview"		:"textures_prev/neutral/UWE00A00.jpg",
+		"mapDiffuse"	:"neutral/UWE00A00.jpg"
+	},
+	"korpus_col2":
+	{
+		"title"			:"{$col_weiss}",
+		"label"			:"korpus_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/0502Y50R.jpg",
+		"mapDiffuse"	:"neutral/0502Y50R.jpg"
+	},
+	"korpus_col3":
+	{
+		"title"			:"{$col_240-magnolie}",
+		"label"			:"korpus_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/S0907Y30.jpg",
+		"mapDiffuse"	:"neutral/S0907Y30.jpg"
+	},
+	"korpus_col4":
+	{
+		"title"			:"{$Kaschmir}",
+		"label"			:"korpus_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/1505Y50R.jpg",
+		"mapDiffuse"	:"neutral/1505Y50R.jpg"
+	},
+	"korpus_col5":
+	{
+		"title"			:"{$Beigegrau}",
+		"label"			:"korpus_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABG39M00.jpg",
+		"mapDiffuse"	:"neutral/ABG39M00.jpg"
+	},
+	"korpus_col6":
+	{
+		"title"			:"{$Silbergrau}",
+		"label"			:"korpus_6",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/N2002Y00.jpg",
+		"mapDiffuse"	:"neutral/N2002Y00.jpg"
+	},
+	"korpus_col7":
+	{
+		"title"			:"{$Anthrazit}",
+		"label"			:"korpus_7",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/front_AGU73W00.jpg",
+		"mapDiffuse"	:"neutral/front_AGU73W00.jpg"
+	},
+	"korpus_col8":
+	{
+		"title"			:"{$col_schwarz}",
+		"label"			:"korpus_8",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL99DSW.jpg",
+		"mapDiffuse"	:"neutral/GKL99DSW.jpg"
+	},
+	"korpus_col9":
+	{
+		"title"			:"{$Blaugrau}",
+		"label"			:"korpus_9",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL55GGU.jpg",
+		"mapDiffuse"	:"neutral/GKL55GGU.jpg"
+	},
+	"korpus_col10":
+	{
+		"title"			:"{$wall_rot}",
+		"label"			:"korpus_10",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/URT45T00.jpg",
+		"mapDiffuse"	:"neutral/URT45T00.jpg"
+	},
+	"korpus_col11":
+	{
+		"title"			:"{$Rubinrot}",
+		"label"			:"korpus_11",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ART90H00b.jpg",
+		"mapDiffuse"	:"neutral/ART90H00b.jpg"
+	},
+	"korpus_col12":
+	{
+		"title" 		: "{$Beton}",
+		"label" 		: "korpus_12",
+		"EDIGraphID"	: "K11",
+		"preview" 		: "textures_prev/neutral/XGU23K00.jpg",
+		"mapDiffuse" 	: "neutral/XGU23K00.jpg"
+	},
+	"korpus_col13":
+	{
+		"title" 		: "{$Schiefer}",
+		"label" 		: "korpus_13",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/XGU85H00.jpg",
+		"mapDiffuse" 	: "neutral/XGU85H00.jpg"
+	},
+	"korpus_col14":
+	{
+		"title" 		: "{$Akazie}",
+		"label" 		: "korpus_14",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/HAK18H00.jpg",
+		"mapDiffuse" 	: "neutral/HAK18H00.jpg"
+	},
+	"korpus_col15":
+	{
+		"title" 		: "{$Steinbuche}",
+		"label" 		: "korpus_15",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/HAH68N00.jpg",
+		"mapDiffuse" 	: "neutral/HAH68N00.jpg"
+	},
+	"korpus_col16":
+	{
+		"title"			:"{$eiche}",
+		"label"			:"korpus_16",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HAP27L00.jpg",
+		"mapDiffuse"	:"neutral/HAP27L00.jpg"
+	},
+	"korpus_col17":
+	{
+		"title"			:"{$col_ahorn}",
+		"label"			:"korpus_17",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HAH20K00.jpg",
+		"mapDiffuse"	:"neutral/HAH20K00.jpg"
+	},
+	"korpus_col18":
+	{
+		"title"			:"{$Akazie}",
+		"label"			:"korpus_18",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/HBN15K00.jpg",
+		"mapDiffuse"	:"neutral/HBN15K00.jpg"
+	},
+	"korpus_Lack_7":
+	{
+		"title"		 	: "{$Anthrazit}",
+		"label"		 	: "korpus_Lack_7",
+		"EDIGraphID" 		: "F07",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.3, 0.3, 0.3 ],
+		"preview"	 		: "neutral/front_AGU73W00.jpg",
+		"mapDiffuse" 		: "neutral/front_AGU73W00.jpg"
+	},
+	"korpus_Folie_12":
+	{
+		"title"          : "{$eiche}",
+		"label"          : "korpus_12",
+		"preview"        : "withbump/Holz1_diffuse.jpg",
+		"mapDiffuse"     : "withbump/Holz1_diffuse.jpg",
+		"mapBump"        : "withbump/Holz1_bump.jpg",
+		"mapBumpScale"   : 0.25,
+		"EDIGraphID" 	 : "Holz000",
+		"size"	       	 : {"u":100, "v":100},
+		"rotation"	   	 : 0.0
+	},
+	"korpus_Lack_8":
+	{
+		"title"		    :"{$Kernbuche}",
+		"label"		    :"Korpus_8",
+		"EDIGraphID"	:"HBU32K00",
+		"preview"	    :"carat/dekore/HBU32K00_COLOR.jpg",
+		"mapDiffuse"	:"carat/dekore/HBU32K00_COLOR.jpg"
+	},
+
+
+	"sockel_Folie_12":
+	{
+		"title"          : "{$eiche}",
+		"label"          : "sockel_12",
+		"preview"        : "withbump/Holz1_diffuse.jpg",
+		"mapDiffuse"     : "withbump/Holz1_diffuse.jpg",
+		"mapBump"        : "withbump/Holz1_bump.jpg",
+		"mapBumpScale"   : 0.25,
+		"EDIGraphID" 	 : "Holz000",
+		"size"	       	 : {"u":250, "v":250},
+		"rotation"	     : 0.0
+	},
+
+	"sockel_Lack_7":
+	{
+		"title"		 	: "{$Anthrazit}",
+		"label"			: "sockel_Lack_7",
+		"EDIGraphID"		: "F07",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.3, 0.3, 0.3 ],
+		"preview"	 		: "neutral/front_AGU73W00.jpg",
+		"mapDiffuse" 		: "neutral/front_AGU73W00.jpg"
+	},
+	"sockel_Holz_1":
+	{
+		"title"			:"{$Buche}",
+		"label"			:"sockel_Holz_1",
+		"EDIGraphID"		:"F17",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.0, 0.0, 0.0 ],
+		"preview"			:"neutral/HAP27L00.jpg",
+		"mapDiffuse"		:"neutral/HAP27L00.jpg",
+		"mapBump"   		: "withbump/Holz1_bump.jpg",
+		"mapBumpScale" 	: 0.25
+	},
+	"sockel_Lack_12":
+	{
+		"title"		    : "{$Tiefblau}",
+		"label"		    : "sockel_Lack_12",
+		"EDIGraphID"		: "F012",
+		"colorEmissive" 	: [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" 	: [ 0.3, 0.3, 0.3 ],
+		"preview"	    	: "neutral/front_ABL65H00.jpg",
+		"mapDiffuse"		: "neutral/front_ABL65H00.jpg"
+	},
+	"sockel_col1":
+	{
+		"title"			:"{$Ultraweiß}",
+		"label"			:"sockel_1",
+		"EDIGraphID"	:"F07",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.1, 0.1, 0.1 ],
+		"preview"		:"textures_prev/neutral/UWE00A00.jpg",
+		"mapDiffuse"	:"neutral/UWE00A00.jpg"
+	},
+	"sockel_col2":
+	{
+		"title"			:"{$col_weiss}",
+		"label"			:"sockel_2",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/0502Y50R.jpg",
+		"mapDiffuse"	:"neutral/0502Y50R.jpg"
+	},
+	"sockel_col3":
+	{
+		"title"			:"{$col_240-magnolie}",
+		"label"			:"sockel_3",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/S0907Y30.jpg",
+		"mapDiffuse"	:"neutral/S0907Y30.jpg"
+	},
+	"sockel_col4":
+	{
+		"title"			:"{$Kaschmir}",
+		"label"			:"sockel_4",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/1505Y50R.jpg",
+		"mapDiffuse"	:"neutral/1505Y50R.jpg"
+	},
+	"sockel_col5":
+	{
+		"title"			:"{$Beigegrau}",
+		"label"			:"sockel_5",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ABG39M00.jpg",
+		"mapDiffuse"	:"neutral/ABG39M00.jpg"
+	},
+	"sockel_col6":
+	{
+		"title"			:"{$Silbergrau}",
+		"label"			:"sockel_6",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/N2002Y00.jpg",
+		"mapDiffuse"	:"neutral/N2002Y00.jpg"
+	},
+	"sockel_col7":
+	{
+		"title"			:"{$Anthrazit}",
+		"label"			:"sockel_7",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/front_AGU73W00.jpg",
+		"mapDiffuse"	:"neutral/front_AGU73W00.jpg"
+	},
+	"sockel_col8":
+	{
+		"title"			:"{$col_schwarz}",
+		"label"			:"sockel_8",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL99DSW.jpg",
+		"mapDiffuse"	:"neutral/GKL99DSW.jpg"
+	},
+	"sockel_col9":
+	{
+		"title"			:"{$Blaugrau}",
+		"label"			:"sockel_9",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/GKL55GGU.jpg",
+		"mapDiffuse"	:"neutral/GKL55GGU.jpg"
+	},
+	"sockel_col10":
+	{
+		"title"			:"{$wall_rot}",
+		"label"			:"sockel_10",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/URT45T00.jpg",
+		"mapDiffuse"	:"neutral/URT45T00.jpg"
+	},
+	"sockel_col11":
+	{
+		"title"			:"{$Rubinrot}",
+		"label"			:"sockel_11",
+		"EDIGraphID"	:"F07",
+		"preview"		:"textures_prev/neutral/ART90H00b.jpg",
+		"mapDiffuse"	:"neutral/ART90H00b.jpg"
+	},
+	"sockel_col12":
+	{
+		"title" 		: "{$Beton}",
+		"label" 		: "sockel_12",
+		"EDIGraphID"	: "K11",
+		"preview" 		: "textures_prev/neutral/XGU23K00.jpg",
+		"mapDiffuse" 	: "neutral/XGU23K00.jpg"
+	},
+	"sockel_col13":
+	{
+		"title" 		: "{$Schiefer}",
+		"label" 		: "sockel_13",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/XGU85H00.jpg",
+		"mapDiffuse" 	: "neutral/XGU85H00.jpg"
+	},
+	"sockel_col14":
+	{
+		"title" 		: "{$Akazie}",
+		"label" 		: "sockel_14",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/HAK18H00.jpg",
+		"mapDiffuse" 	: "neutral/HAK18H00.jpg"
+	},
+	"sockel_col15":
+	{
+		"title" 		: "{$Steinbuche}",
+		"label" 		: "sockel_15",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/HAH68N00.jpg",
+		"mapDiffuse" 	: "neutral/HAH68N00.jpg"
+	},
+
+
+	"platte_col1":
+	{
+		"title"			:"{$Ultraweiß}",
+		"label"			:"platte1",
+		"EDIGraphID"	:"F07",
+		"colorEmissive" : [ 0.0, 0.0, 0.0 ],
+		"colorSpecular" : [ 0.3, 0.3, 0.3 ],
+		"colorDiffuse"	: "rgb(255, 255, 250)",
+		"preset"		: "glossy_low"
+	},
+	"platte_col2":
+	{
+		"title" 		: "{$col_weiss}",
+		"label" 		: "platte_2",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/0502Y50R.jpg",
+		"mapDiffuse" 	: "neutral/0502Y50R.jpg"
+	},
+	"platte_col3":
+	{
+		"title" 		: "{$col_240-magnolie}",
+		"label" 		: "Platte_3",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/S0907Y30.jpg",
+		"mapDiffuse" 	: "neutral/S0907Y30.jpg"
+	},
+	"platte_col4":
+	{
+		"title" 		: "{$Kaschmir}",
+		"label" 		: "platte_4",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/1505Y50R.jpg",
+		"mapDiffuse" 	: "neutral/1505Y50R.jpg"
+	},
+	"platte_col5":
+	{
+		"title" 		: "{$Silber}",
+		"label" 		: "platte_5",
+		"EDIGraphID"	: "K05",
+		"preview" 		: "textures_prev/neutral/N2002Y00.jpg",
+		"mapDiffuse" 	: "neutral/N2002Y00.jpg"
+	},
+	"platte_col6":
+	{
+		"label"           : "platte_6",
+		"colorEmissive"   : [ 0.1, 0.1, 0.1 ],
+		"colorSpecular"   : [ 0.1, 0.1, 0.1 ],
+		"preview"         : "neutral/XGU97G00.jpg",
+		"mapDiffuse"      : "neutral/XGU97G00.jpg",
+		"EDIGraphID" 	    : "KAKIE000",
+		"title"           : "{$Lava}",
+		"size"			:{"u":100, "v":100},
+		"preset"			:"glossy_low"
+
+	},
+	"platte_col7":
+	{
+		"title" 		: "{$col_schwarz}",
+		"label" 		: "platte_7",
+		"EDIGraphID"	: "K07",
+		"preview"		: "textures_prev/neutral/GKL99DSW.jpg",
+		"mapDiffuse" 	: "neutral/GKL99DSW.jpg"
+	},
+	"platte_col8":
+	{
+		"title" 		: "{$Beton}",
+		"label" 		: "platte_8",
+		"EDIGraphID"	: "K11",
+		"preview" 		: "textures_prev/neutral/XGU23K00.jpg",
+		"mapDiffuse"	: "neutral/XGU23K00.jpg",
+		"preset"		: "matt"
+	},
+	"platte_col9":
+	{
+		"title" 		: "{$Schiefer}",
+		"label" 		: "platte_9",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/XGU85H00.jpg",
+		"mapDiffuse" 	: "neutral/XGU85H00.jpg"
+	},
+	"platte_col10":
+	{
+		"title" 		: "{$Akazie}",
+		"label" 		: "platte_10",
+		"EDIGraphID"	: "K07",
+		"preview" 	: "neutral/HAK18H00.jpg",
+		"mapDiffuse" 	: "neutral/HAK18H00.jpg"
+	},
+	"platte_col15":
+	{
+		"title" 			: "{$Fichte}",
+		"label" 			: "platte_15",
+		"EDIGraphID"		: "K15",
+		"colorSpecular" 	: [ 0.1, 0.1, 0.1 ],
+		"preview" 		: "textures_prev/withbump/linde_dunkel.jpg",
+		"mapDiffuse" 		: "withbump/linde_dunkel.jpg",
+		"size"			:{"u":60, "v":80},
+		"preset"		:"matt"
+
+	},
+	"platte_col11":
+	{
+		"title" 		: "{$Steinbuche}",
+		"label" 		: "platte_11",
+		"EDIGraphID"	: "K07",
+		"preview" 		: "textures_prev/neutral/HAH68N00v.jpg",
+		"mapDiffuse" 	: "neutral/HAH68N00v.jpg"
+	},
+	"platte_col12" :
+	{
+		"title" 		: "{$Stein_hell}",
+		"preview" 		: "textures_prev/carat/misc/XGU06C00_COLOR.jpg",
+		"mapDiffuse" 	: "carat/misc/XGU06C00_COLOR.jpg",
+		"EDIGraphID" 	: "XGU06C00",
+		"size"			:{"u":80, "v":200},
+		"rotation"		:0.0,
+		"preset"		:"glossy_medium"
+	},
+	"platte_col13" :
+	{
+		"title" 		: "{$Stein}",
+		"preview" 		: "textures_prev/carat/misc/XGU13502_COLOR.jpg",
+		"mapDiffuse" 	: "carat/misc/XGU13502_COLOR.jpg",
+		"EDIGraphID" 	: "XGU13502",
+		"size"			:{"u":80, "v":200},
+		"rotation"		:0.0,
+		"preset"		:"glossy_medium"
+	},
+	"platte_col14" :
+	{
+		"title" 		: "{$Eiche_geoelt}",
+		"preview" 		: "textures_prev/neutral/HST35Q00_COLOR.jpg",
+		"mapDiffuse" 	: "neutral/HST35Q00_COLOR.jpg",
+		"EDIGraphID" 	: "HST35Q00",
+		"size"			:{"u":80, "v":200},
+		"preset"		:"matt"
+	}
+}

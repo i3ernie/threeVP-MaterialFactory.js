@@ -1,0 +1,433 @@
+{		"wall_1" :
+		{	"label" 		: "wall_1",
+			"title" 		: "{$polarweiss}",
+			"preview" 		: "textures_prev/prev_211.jpg",
+			"mapDiffuse" 	: "neutral/211.jpg",
+			"EDIGraphID" 	: "WATA2021"
+
+		},
+
+		"wall_2" :
+		{
+		  "label"           : "wall_2",
+		  "preview"         : "textures_prev/withbump/brick_diffuse.jpg",
+		  "mapDiffuse"      : "withbump/brick_diffuse.jpg",
+		  "mapBump"         : "withbump/brick_bump.jpg",
+		  "mapBumpScale"    : 4.75,
+		  "EDIGraphID" 	    : "Ziegel000",
+		  "title"           : "{$Ziegel}",
+		  "size"			: {"u":180, "v":300},
+		  "rotation"		: 0.0
+		},
+
+		"wall_3" :
+		{
+		  "label"           : "wall_3",
+		  "preview"         : "textures_prev/withbump/wall1_diffuse.jpg",
+		  "colorEmissive" : [ 0.2, 0.2, 0.2 ],
+		  "mapDiffuse"      : "withbump/rauputz.jpg",
+		  "mapBump"         : "withbump/rauputz.jpg",
+		  "mapBumpScale"    : 1.5,
+		  "EDIGraphID" 	    : "Rauputz",
+		  "title"           : "{$Rauputz}",
+		  "size"			: {"u":250, "v":250}
+		},
+
+
+		"wall_4" :
+		{
+		  "label"           : "wall_4",
+		  "preview"         : "textures_prev/withbump/pattern3.jpg",
+		  "mapDiffuse"      : "withbump/pattern3.jpg",
+		  "mapBump"         : "withbump/pattern3.jpg",
+		  "mapBumpScale"    : 1.75,
+		  "EDIGraphID" 	    : "Kacheln",
+		  "title"           : "{$Kacheln}",
+		  "size"			: { "u": 250, "v": 250},
+		  "rotation"		: 0.0
+		},
+
+
+
+		"wall_5" :
+		{
+		  "label"           : "wall_5",
+		  "preview"         : "textures_prev/withbump/p4_2_diffuse.jpg",
+		  "mapDiffuse"      : "withbump/p4_2_diffuse.jpg",
+		  "mapBump"         : "withbump/p4_2_bump.jpg",
+		  "mapBumpScale"    : 0.75,
+		  "EDIGraphID" 	    : "KAKIE000",
+		  "title"           : "{$mosaik}",
+		  "size"			:{"u":50, "v":50}
+		},
+
+		"wall_6" :
+		{
+		  "label"           : "wall_6",
+		  "colorEmissive"   : [ 0.0, 0.0, 0.0 ],
+		  "colorSpecular"   : [ 0.0, 0.0, 0.0 ],
+		  "preview"         : "textures_prev/withbump/sand.jpg",
+		  "mapDiffuse"      : "withbump/sand.jpg",
+		  "mapBump"         : "withbump/sand.jpg",
+		  "mapBumpScale"    : 1.5,
+		  "EDIGraphID" 	    : "KAKIE000",
+		  "title"           : "{$sand}",
+		  "size"			:{"u":25, "v":25}
+		},
+
+		"wall_7" :
+		{	"label" 		: "wall_7",
+			"title" 		: "{$weiss}",
+			"colorDiffuse"	: "rgb(255,255,254)",
+			"colorEmissive" : [ 0.42, 0.42, 0.42 ]
+		},
+
+		"wall_8" :
+		{	"label" 		: "wall_8",
+			"title" 		: "{$Pastell_gelb}",
+			"colorDiffuse"	: "rgb(255, 255, 215)"
+		},
+
+		"wall_8_displacement" :
+		{
+			"label" 		: "wall_8_displacement",
+			"title" 		: "{$Pastell_gelb}",
+			"mapDiffuse"	: "b3_grounds024_COLOR.png",
+			"mapDisplacement": "b3_grounds024_DISP.png",
+			"mapBump"		: "b3_grounds024_SPEC.png",
+			"mapDisplacementBias": 0,
+			"mapDisplacementScale": 20,
+			"mapBumpScale": 1.5,
+			"size"			:{"u":150, "v":150}
+		},
+
+		"wall_9" :
+		{	"label" 		: "wall_9",
+			"title" 		: "{$Pastell_blau}",
+			"colorDiffuse"	: "rgb(200, 237, 248)"
+		},
+
+		"wall_10" :
+		{	"label" 		: "wall_10",
+			"title" 		: "{$Pastell_gruen}",
+			"colorDiffuse"	: "rgb(216, 252, 216)"
+		},
+
+		"wall_11":
+		{
+			"title"			:"{$col_grau}",
+			"label"			:"{col_grau}",
+			"EDIGraphID" 	: "grau",
+			"preview"		:"textures_prev/default/col_223-delfingrau.jpg",
+			"colorDiffuse"	: "rgb(191,191,191)",
+			"colorEmissive" : [ 0.3, 0.3, 0.3 ]
+		},
+
+
+
+  "bottom_1" :
+		{
+			"label"         : "{$bottom_1}",
+			"title"         : "{$Kachel-weiß-klein}",
+			"preview"       : "textures_prev/prev_bottom_kachel-weis.jpg",
+		    "mapDiffuse"    : "default/bottom_kachel-weis.jpg",
+		    "mapBump"       : "default/bottom_kachel-weis.jpg",
+		  	"mapBumpScale"  : 1.75,
+		  	"EDIGraphID" 	: "CERA0000",
+		  	"size"			:{"u":50, "v":50}
+		},
+
+		"bottom_2" :
+		{
+			"label" 	    : "{$bottom_2}",
+			"title" 	    : "{Kachel-weiß-groß}",
+			"preview" 	    : "textures_prev/prev_bottom_kachel-weis.jpg",
+            "mapDiffuse" 	: "neutral/KWE02D00.jpg",
+		    "mapBump" 	    : "neutral/KWE02D00.jpg",
+            "mapBumpScale"  : 1.75,
+			"EDIGraphID" 	: "KAKIE000",
+		  	"rotation"		:0.7854,
+			"size"			:{"u":50, "v":50}
+
+		},
+
+		"bottom_5" :
+		{
+			"label" 		: "bottom_5",
+			"preview" 		: "textures_prev/neutral/EicheKOW.jpg",
+		    "mapDiffuse" 	: "neutral/EicheKOW.jpg",
+		    "mapBump" 		: "neutral/EicheKOW.jpg",
+		    "mapBumpScale"  : -0.25,
+		    "EDIGraphID" 	: "EicheKOW",
+			"title" 		: "{$Parkett}",
+			"size"			:{"u":100, "v":100},
+			"preset"		: "glossy_low"
+		},
+
+		"bottom_6" :
+		{
+			"label" 		: "Dunkle Fliesen",
+			"preview" 		: "textures_prev/neutral/XGU97G00.jpg",
+		    "mapDiffuse" 	: "neutral/XGU97G00.jpg",
+	        "colorEmissive" : [ 0.1, 0.1, 0.1 ],
+			"mapBump" 		: "neutral/tile_white.jpg",
+			"mapBumpScale"  : 0.75,
+		    "EDIGraphID" 	: "XGU97G00",
+			"title" 		: "{$Dunkle_Fliesen}",
+			"size"			:{"u":50, "v":50},
+			"preset"		: "glossy_medium"
+		},
+
+		"bottom_15" :
+		{
+		  "label" 			: "bottom_15",
+		  "colorEmissive" 	: [ 0.3, 0.3, 0.3 ],
+		  "colorSpecular" 	: [ 0.2, 0.2, 0.2 ],
+		  "preview" 		: "textures_prev/withbump/p4_2_diffuse.jpg",
+		  "mapDiffuse" 		: "withbump/p4_2_diffuse.jpg",
+		  "mapBump" 		: "withbump/p4_2_bump.jpg",
+		  "mapBumpScale" 	: 1.75,
+		  "EDIGraphID" 		: "KACHELN000",
+		  "title" 			: "{$mosaik}",
+		  "size"			:{"u":50, "v":50},
+		  "rotation"		: 0.0
+		},
+
+		"bottom_16" :
+		{
+		  "label" 			: "bottom_16",
+		  "colorEmissive" 	: [ 0.01, 0.01, 0.01 ],
+		  "colorSpecular" 	: [ 0.1, 0.1, 0.1 ],
+		  "preview" 		: "textures_prev/withbump/diele1.jpg",
+		  "mapDiffuse" 		: "withbump/diele1.jpg",
+		  "mapBump" 		: "withbump/diele1.jpg",
+		  "mapBumpScale" 	: -1.75,
+		  "EDIGraphID" 		: "Diele1",
+		  "title" 			: "{$Diele}",
+		  "size"			:{"u":80, "v":200},
+		  "rotation"		:0.0
+		},
+
+    "bottom_17" :
+    {
+        "label" 		: "bottom_17",
+        "preview" 		: "textures_prev/carat/misc/HNU09900_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/HNU09900_COLOR.jpg",
+        "mapBump" 		: "carat/misc/HNU09900_NRM.jpg",
+		"mapBumpScale" 	: -0.35,
+		"EDIGraphID" 	: "HNU09900",
+			"title" 	: "{$Dielen_Eiche}",
+        "size"			:{"u":100, "v":200},
+        "rotation"		:0.0,
+		"preset"		:"matt"
+    },
+
+    "bottom_18" :
+    {
+        "label" 		: "bottom_18",
+        "preview" 		: "textures_prev/carat/misc/HNU14100_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/HNU14100_COLOR.jpg",
+        "mapBump" 		: "carat/misc/HNU14100_NRM.jpg",
+        "EDIGraphID" 	: "Carat2",
+        "title" 		: "{$Carat2}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_19" :
+    {
+        "label" 		: "bottom_19",
+        "preview" 		: "textures_prev/carat/misc/HPI58Q00_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/HPI58Q00_COLOR.jpg",
+        "mapBump" 		: "carat/misc/HPI58Q00_NRM.jpg",
+        "EDIGraphID" 	: "Carat3",
+        "title" 		: "{$Carat3}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_20" :
+    {
+        "label" 		: "bottom_20",
+        "preview" 		: "textures_prev/carat/misc/HPI09300_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/HPI09300_COLOR.jpg",
+        "mapBump" 		: "carat/misc/HPI09300_NRM.jpg",
+        "EDIGraphID" 	: "Carat4",
+        "title" 		: "{$Carat4}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_21" :
+    {
+        "label" 		: "bottom_21",
+        "preview" 		: "textures_prev/carat/misc/XGU06C00_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/XGU06C00_COLOR.jpg",
+        "mapBump" 		: "carat/misc/XGU06C00_NRM.jpg",
+        "EDIGraphID" 	: "Carat5",
+        "title" 		: "{$Carat5}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_22" :
+    {
+        "label" 		: "bottom_22",
+        "preview" 		: "textures_prev/carat/misc/XGU97G00_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/XGU97G00_COLOR.jpg",
+        "mapBump" 		: "carat/misc/XGU97G00_NRM.jpg",
+        "EDIGraphID" 	: "Carat6",
+        "title" 		: "{$Carat6}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_23" :
+    {
+        "label" 		: "bottom_23",
+        "preview" 		: "textures_prev/carat/misc/XGU08400_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/XGU08400_COLOR.jpg",
+        "mapBump" 		: "carat/misc/XGU08400_NRM.jpg",
+        "EDIGraphID" 	: "Carat7",
+        "title" 		: "{$Carat7}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_24" :
+    {
+        "label" 		: "bottom_24",
+        "preview" 		: "textures_prev/carat/misc/XGU13502_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/XGU13502_COLOR.jpg",
+        "mapBump" 		: "carat/misc/XGU13502_NRM.jpg",
+        "EDIGraphID" 	: "Carat8",
+        "title" 		: "{$Carat8}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+    "bottom_25" :
+    {
+        "label" 		: "bottom_25",
+        "preview" 		: "textures_prev/carat/misc/XWE22100_COLOR.jpg",
+        "mapDiffuse" 	: "carat/misc/XWE22100_COLOR.jpg",
+		"mapBump" 		: "carat/misc/XWE22100_NRM.jpg",
+		"EDIGraphID" 	: "Carat9",
+        "title" 		: "{$Carat9}",
+        "size"			:{"u":80, "v":200},
+        "rotation"		:0.0
+    },
+
+	"bottom_26" :
+	{
+		"label" 		: "bottom_26",
+		"preview" 		: "textures_prev/neutral/tile_white.jpg",
+		"colorDiffuse"  : "rgb(255,255,250)",
+		"mapDiffuse"	: "neutral/tile_white.jpg",
+	    "mapBump" 		: "neutral/tile_white.jpg",
+		"mapBumpScale"  : 0.75,
+		"EDIGraphID" 	: "none",
+		"title" 		: "{$Helle_Fliesen}",
+		"preset"		: "glossy_medium",
+		"rotate"        : 0.78,
+		"size"			:{"u":50, "v":50}
+
+	},
+	"bottom_27":
+	{
+		"title" 		: "{$Beton}",
+		"label" 		: "bottom_27",
+		"EDIGraphID"	: "XGU23K00",
+		"preview" 		: "textures_prev/neutral/XGU23K00.jpg",
+		"mapDiffuse"	: "neutral/XGU23K00.jpg",
+		"preset"		: "matt",
+		"size"			:{"u":200, "v":200}
+
+	},
+
+
+	"ceiling_2" :
+	{
+		"label" 	    : "{$bottom_2}",
+		"title" 	    : "{Kachel-weiß-groß}",
+		"preview" 	    : "textures_prev/prev_bottom_kachel-weis.jpg",
+		"colorEmissive" : [ 0.9, 0.9, 0.9 ],
+		"mapDiffuse" 	: "neutral/prio_weiss.png",
+		"mapAlpha" 	    : "neutral/prio_weissinvert.png",
+		"EDIGraphID" 	: "KAKIE000",
+		"rotation"		:0.0,
+		"size"			:{"u":12.5, "v":10}
+
+	},
+
+  		"window_col1":
+		{
+			"title"			:"{$col_grau}",
+			"label"			:"{col_grau}",
+			"EDIGraphID" 	: "silber",
+			"preview"		:"textures_prev/default/col_223-delfingrau.jpg",
+			"mapDiffuse"	:"default/col_223-delfingrau.jpg"
+		},
+
+		"window_col2":
+		{
+			"title"			:"{$col_schwarz}",
+			"label"			:"{col_schwarz}",
+			"EDIGraphID" 	: "braun",
+			"preview"		:"textures_prev/default/window_black.jpg",
+			"mapDiffuse"	:"default/window_black.jpg"
+		},
+
+		"window_col3":
+		{
+			"title"			: "{$col_braun}",
+			"label"			: "{col_braun}",
+			"EDIGraphID" 	: "braun",
+			"preview" 		: "textures_prev/default/window_braun.jpg",
+			"mapDiffuse"	: "default/window_braun.jpg"
+		},
+		"window_col4":
+		{
+			"title" 		: "{$col_weiss}",
+			"label" 		: "{col_weiss}",
+			"EDIGraphID"	: "L08",
+			"preview" 		: "textures_prev/neutral/textures_prev/AWE01A00.jpg",
+			"mapDiffuse" 	: "neutral/AWE01A00.jpg"
+		},
+
+		"door_col1":
+		{
+			"title"		    :"{$col_grau}",
+			"label"		    :"{col_grau}",
+			"EDIGraphID"    : "silber",
+			"preview"	    :"textures_prev/col_223-delfingrau.jpg",
+			"mapDiffuse"	: "default/col_223-delfingrau.jpg"
+		},
+
+		"door_col2":
+		{
+			"title"		    :"{$col_schwarz}",
+			"label"	    	:"{col_schwarz}",
+			"EDIGraphID"    : "braun",
+			"preview"	    :"textures_prev/window_black.jpg",
+			"mapDiffuse"	:"default/window_black.jpg"
+		},
+
+		"door_col3":
+		{
+			"title"			: "{$col_braun}",
+			"label"			: "{col_braun}",
+			"EDIGraphID" 	: "braun",
+			"preview" 		: "textures_prev/window_braun.jpg",
+			"mapDiffuse"	: "default/window_braun.jpg"
+		},
+
+		"door_col4":
+		{
+			"title" 		: "{$col_weiss}",
+			"label" 		: "{col_weiss}",
+			"EDIGraphID"	: "L08",
+			"preview" 		: "textures_prev/AWE01A00.jpg",
+			"mapDiffuse" 	: "neutral/AWE01A00.jpg"
+		}
+}

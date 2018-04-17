@@ -1,0 +1,16 @@
+{
+    "rotationMap": {
+        "mapDiffuse": "stdMaterial/Stone–Concrete-Dirt/Beige_Stone_diffuse.jpg",
+        "colorEmissive" : [ 0.0, 0.0, 0.0 ],
+        "colorSpecular" : [ 0.0, 0.0, 0.0 ],
+        "reflectivity" : "0.05",
+        "shininess": "50",
+        "rotationG": 45
+    },
+    "blend": {
+        "mapDiffuse": "stdMaterial/Stone–Concrete-Dirt/ConcreteBare0333_6_H_Diffuse.png",
+        "blendMode"		: "multiply",
+        "blendTexture"	: "neutral/EicheKOW.jpg",
+        "blendOpacity"  : 0.5
+    }
+}

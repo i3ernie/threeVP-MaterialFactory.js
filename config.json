@@ -1,0 +1,24 @@
+{
+    "baseUrl": "./src",
+    "paths": {
+        "core"      : "empty:",
+        "vendor"    : "vendor",
+        "libs"      : "libs",
+        "factorys"  : "extras/factorys",
+        
+        "lodash"        : "empty:",
+        "jquery"        : "empty:",
+        "jquery-private" : "empty:",
+        "backbone"      : "empty:",
+        "underscore"    : "empty:",
+
+        "json"      : "empty:",
+        "text"      : "empty:",
+        
+        "three"     : "empty:",
+        "factorys/Factory"   : "empty:",        
+        
+        "cmd"       : "core/Command",
+        "globals"   : "core/globals"
+    }
+}

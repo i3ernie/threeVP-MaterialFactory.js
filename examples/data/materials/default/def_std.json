@@ -1,0 +1,146 @@
+{
+    "kupferTransparent": {
+        "color": "rgb(178,102,76)",
+        "specular": "rgb(68,40,28)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.5
+    },
+
+    "white": {
+        "color": "rgb(255,255,255)",
+        "specular": "rgb(255,255,255)"
+    },
+
+    "plastik": {
+        "color": "rgb(255,255,255)",
+        "specular": "rgb(2,2,2)"
+    },
+
+    "gray": {
+        "color": "rgb(127,127,127)",
+        "specular": "rgb(127,127,127)"
+    },
+
+
+    "schwarzTransparent": {
+        "color": "rgb(0,0,0)",
+        "specular": "rgb(0,0,0)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.3
+    },
+
+    "weissTransparent": {
+        "color": "rgb(255,255,255)",
+        "specular": "rgb(255,255,255)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.3
+    },
+
+    "weissArrow": {
+        "color": "rgb(255,255,255)",
+        "specular": "rgb(0,0,0)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.5
+    },
+
+    "kupfer": {
+        "color": "rgb(178,102,76)",
+        "specular": "rgb(68,40,28)",
+        "shininess": "60"
+    },
+    "copper": {
+        "color": "rgb(178,102,76)",
+        "specular": "rgb(68,40,28)",
+        "shininess": "60"
+    },
+
+    "gold": {
+        "color": "rgb(203,171,34)",
+        "specular": "rgb(203,171,34)",
+        "shininess": "60"
+    },
+    "goldTransparent": {
+        "color": "rgb(203,171,34)",
+        "specular": "rgb(203,171,34)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.5
+    },
+
+    "silber": {
+        "color": "rgb(165,165,165)",
+        "specular": "rgb(165,165,165)",
+        "shininess": "60"
+    },
+
+    "silberTransparent": {
+        "color": "rgb(165,165,165)",
+        "specular": "rgb(165,165,165)",
+        "shininess": "60",
+        "transparent" : true,
+        "opacity": 0.5
+    },
+
+    "silver": {
+        "color": "rgb(165,165,165)",
+        "specular": "rgb(165,165,165)",
+        "shininess": "60"
+    },
+
+    "pewter": {
+        "color": "rgb(137,137,137)",
+        "specular": "rgb(137,137,137)",
+        "shininess": "60"
+    },
+    "zinn": {
+        "color": "rgb(137,137,137)",
+        "specular": "rgb(137,137,137)",
+        "shininess": "60"
+    },
+    "bronze": {
+        "color": "rgb(248,144,20)",
+        "specular": "rgb(248,144,20)",
+        "shininess": "60"
+    },
+    "stahl": {
+        "color": "rgb(187,187,187)",
+        "specular": "rgb(187,187,187)",
+        "shininess": "60"
+    },
+
+    "steel": {
+        "color": "rgb(187,187,187)",
+        "specular": "rgb(187,187,187)",
+        "shininess": "60"
+    },
+
+    "messing": {
+        "color": "rgb(161,144,100)",
+        "specular": "rgb(200,160,120)",
+        "shininess": "60"
+    },
+    "brass": {
+        "color": "rgb(161,144,100)",
+        "specular": "rgb(200,160,120)",
+        "shininess": "60"
+    },
+    "edges": {
+        "map": {"image":"edges.png"}
+    },
+    "grid": {
+        "map": {"image":"UV_Grid_Sm.jpg"}
+    },
+    "glass" : {
+        "color": "0xccccff",
+        "transparent": true,
+        "opacity": 0.3,
+        "envMap": {
+            "image" : "textureCube:skybox"        }
+    }
+}
+
+
