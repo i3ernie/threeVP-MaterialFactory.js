@@ -46,6 +46,7 @@
     "dist/threeVP-MaterialFactory.js",
     "dist/threeVP-MaterialFactory.min.js",
     "package.json",
+    "dist",
     "src"
   ],
   "scripts": {
