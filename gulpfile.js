@@ -66,28 +66,8 @@ gulp.task("build", function(){
     .pipe( plugins.uglify() )
     .pipe( gulp.dest( dirs.dist ) );
     
-    plugins.requirejs(
-        _.extend({}, requireconfig,
-            {
-                "name"      : "vendor/require/require",
-                "exclude"   : [],
-                "out"       : "core.js",
-                "include" : ["underscore", "core"]
-            })
-        ).on("error", console.log)
-    .pipe( gulp.dest( dirs.dist ) );
-    
-    plugins.requirejs(
-        _.extend({}, requireconfig,
-            {
-                "name"      : "vendor/require/require",
-                "exclude"   : [],
-                "out"       : "core.min.js",
-                "include" : ["underscore", "core"]
-            })
-        ).on("error", console.log)
-    .pipe( plugins.uglify() )
-    .pipe( gulp.dest( dirs.dist ) );
+   
+   
 
     return ret;
 });

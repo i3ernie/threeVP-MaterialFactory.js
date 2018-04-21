@@ -1,6 +1,6 @@
 {
   "name": "threeVP-MaterialFactory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "MaterialFactory for three.js",
   "keywords": [
@@ -19,9 +19,7 @@
     
   "dependencies": {
     "jquery-ui" : "latest",
-
-        
-    "requirejs-text"    : "latest",
+    "threeVP" : "git://github.com/i3ernie/threeVP.js.git",
     "requirejs-plugins" : "latest",
     "requirejs-less"    : "latest"
         
@@ -36,7 +34,6 @@
   },
   
   "directories": {
-    "doc" : "docs",
     "example" : "examples",
     "test" : "test",
     "dist" : "dist",
